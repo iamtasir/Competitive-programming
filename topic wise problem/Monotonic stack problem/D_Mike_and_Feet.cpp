@@ -1,7 +1,13 @@
 ///*    ***Bismillahir Rahmanir Rahim***   */
 
 /*
- Algorithm Used:
+ Algorithm Used:here first try to increase the left side range
+ then trie to increase right side lenght
+ then for max value printing the range
+ for the value in decreasing order
+
+
+ problem link:https://codeforces.com/contest/548/problem/D
 */
 #include <bits/stdc++.h>
 using namespace std;
